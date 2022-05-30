@@ -1,0 +1,13 @@
+.NavBar {
+  padding: 1em;
+  background-color: lightblue;
+}
+
+.NavBar a {
+  margin-right: 2em;
+}
+
+.NavBar a.active {
+  color: black;
+  font-weight: bold;
+}
